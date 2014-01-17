@@ -3,9 +3,9 @@
 return new \Phalcon\Config(array(
 	'database' => array(
 		'adapter'     => 'Mysql',
-		'host'        => '192.168.0.6',
-		'username'    => 'web_dev',
-		'password'    => 'skan1234',
+		'host'        => '127.0.0.1',
+		'username'    => 'root',
+		'password'    => '1234',
 		'dbname'      => 'namu_db',
 	),
 	'application' => array(
