@@ -767,7 +767,7 @@ class DealInfo extends \Phalcon\Mvc\Model
      * @var integer
      */
     public $tax_flag;
-     
+	
     /**
      * Independent Column Mapping.
      */
